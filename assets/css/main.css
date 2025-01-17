@@ -24,8 +24,8 @@ body {
 .container .content .cams {
     display: flex;
     justify-content: space-between;
-    gap: 5px; /* 5px gap between cams */
-    padding: 10px; /* 10px padding from parent */
+    gap: 5px;
+    padding: 10px; 
     background-color: azure;
     border-radius: 5px;
     box-sizing: border-box;
@@ -45,7 +45,7 @@ body {
     margin-top: 20px;
     display: flex;
     justify-content: center;
-    gap: 10px; /* Space between buttons */
+    gap: 10px;
 }
 
 .container .content .buttons button {
