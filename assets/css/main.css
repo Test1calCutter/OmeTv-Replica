@@ -40,6 +40,10 @@ body {
     align-items: center;
     position: relative;
 }
+.container .content .cams #userCam {
+    height: 300px;
+    width: 387px;
+}
 
 .container .content .buttons {
     margin-top: 20px;
